@@ -29,7 +29,7 @@ function changeCustomColor() {
         color='yellow'
     }
     document.body.style.backgroundColor = color;
-    myStudentId.textContent = "200553417";
+    myStudentId.textContent = "Student ID: 200553417";
 }
 
 // function to change bg color from random no.
@@ -56,7 +56,7 @@ function changeRandomColor() {
     }
     document.body.style.backgroundColor = color;
     console.log(randomNumber);
-    myStudentId.textContent = "200553417";
+    myStudentId.textContent = "Student ID: 200553417";
 }
 
 // function to generate options for select list
